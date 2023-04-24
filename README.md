@@ -3,6 +3,8 @@
 
 Beginner-friendly mini crud project using Java.
 
+Note - no framework was used for this project
+
 Sorry for poor frontend design.
 
 
